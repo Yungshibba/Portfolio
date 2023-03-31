@@ -1,0 +1,38 @@
+/*centers navs*/
+.mainnav {
+  text-align: center;
+}
+
+div.b {text-align: center;}
+
+table, th, td {border: 1px solid;}
+
+table.center {Margin-left: auto; margin-right: auto;}
+      
+h2 { text-align: center }
+
+img {
+  border-radius: 50%;
+}
+
+img.choko {display: block;
+  margin-left: auto;
+  margin-right: auto }
+
+  Button{margin: 0;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);}
+
+    /*line 28 is for the portfolio text on index*/
+    div.a {text-align: center; font-size: 30px; font-weight: bold;}
+
+    .divider {
+      height:300px;
+      padding-bottom: 10px;
+      width: 300%;
+      margin: 20px auto;
+      float: left;
+      }
